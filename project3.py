@@ -238,7 +238,7 @@ while True:
         else:
             print("Something went wrong. Enter the correct data!")
     elif command_1 == "2":
-        print("Exit")
+        print("Exit from program")
         break
     else:
         print("Error")
